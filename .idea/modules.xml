@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example-build.iml" filepath="$PROJECT_DIR$/.idea/modules/example-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/funct_prog_coursera.iml" filepath="$PROJECT_DIR$/.idea/modules/funct_prog_coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coursera-progfun-material.iml" filepath="$PROJECT_DIR$/.idea/modules/coursera-progfun-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coursera-progfun-material-build.iml" filepath="$PROJECT_DIR$/.idea/modules/coursera-progfun-material-build.iml" />
     </modules>
   </component>
 </project>
