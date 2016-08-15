@@ -1,3 +1,5 @@
+package week1
+
 /**
   * Created by mlamprea on 8/1/16.
   */
